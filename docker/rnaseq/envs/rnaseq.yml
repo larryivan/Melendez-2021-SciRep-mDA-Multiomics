@@ -1,0 +1,16 @@
+name: rnaseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - aria2
+  - fastqc
+  - multiqc
+  - trimmomatic
+  - star=2.7.11b
+  - htseq
+  - samtools
+  - openjdk=17

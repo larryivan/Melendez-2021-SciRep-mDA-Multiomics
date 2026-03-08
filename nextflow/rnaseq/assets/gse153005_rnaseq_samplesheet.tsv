@@ -1,0 +1,11 @@
+sample	day	replicate	input_type	fastq_1	fastq_2
+SRR12070831	D0	1	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/031/SRR12070831/SRR12070831_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/031/SRR12070831/SRR12070831_2.fastq.gz
+SRR12070832	D0	2	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/032/SRR12070832/SRR12070832_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/032/SRR12070832/SRR12070832_2.fastq.gz
+SRR12070833	D0	3	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/033/SRR12070833/SRR12070833_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/033/SRR12070833/SRR12070833_2.fastq.gz
+SRR12070834	D14	1	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/034/SRR12070834/SRR12070834_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/034/SRR12070834/SRR12070834_2.fastq.gz
+SRR12070835	D14	2	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/035/SRR12070835/SRR12070835_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/035/SRR12070835/SRR12070835_2.fastq.gz
+SRR12070836	D14	3	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/036/SRR12070836/SRR12070836_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/036/SRR12070836/SRR12070836_2.fastq.gz
+SRR12070837	D14	4	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/037/SRR12070837/SRR12070837_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/037/SRR12070837/SRR12070837_2.fastq.gz
+SRR12070838	D28	1	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/038/SRR12070838/SRR12070838_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/038/SRR12070838/SRR12070838_2.fastq.gz
+SRR12070839	D28	2	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/039/SRR12070839/SRR12070839_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR120/039/SRR12070839/SRR12070839_2.fastq.gz
+SRR14636069	D28	3	url	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR146/069/SRR14636069/SRR14636069_1.fastq.gz	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR146/069/SRR14636069/SRR14636069_2.fastq.gz
