@@ -1,0 +1,13 @@
+comparison	biotype	direction	n	value	label_x	label_hjust
+D0 vs D14	lncRNA	Down	162	-162	-190	1
+D0 vs D14	lncRNA	Up	181	181	209	0
+D0 vs D14	Protein-coding	Down	1017	-1017	-1045	1
+D0 vs D14	Protein-coding	Up	869	869	897	0
+D0 vs D28	lncRNA	Down	203	-203	-231	1
+D0 vs D28	lncRNA	Up	215	215	243	0
+D0 vs D28	Protein-coding	Down	1137	-1137	-1165	1
+D0 vs D28	Protein-coding	Up	1439	1439	1467	0
+D14 vs D28	lncRNA	Down	87	-87	-115	1
+D14 vs D28	lncRNA	Up	72	72	100	0
+D14 vs D28	Protein-coding	Down	519	-519	-547	1
+D14 vs D28	Protein-coding	Up	711	711	739	0

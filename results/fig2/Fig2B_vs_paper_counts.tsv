@@ -1,0 +1,13 @@
+comparison	direction	biotype	n	n_paper	delta	pct_of_paper
+D0 vs D14	Down	Protein-coding	1017	993	24	102.42
+D0 vs D14	Down	lncRNA	162	201	-39	80.6
+D0 vs D14	Up	Protein-coding	869	835	34	104.07
+D0 vs D14	Up	lncRNA	181	168	13	107.74
+D0 vs D28	Down	Protein-coding	1137	1213	-76	93.73
+D0 vs D28	Down	lncRNA	203	255	-52	79.61
+D0 vs D28	Up	Protein-coding	1439	1357	82	106.04
+D0 vs D28	Up	lncRNA	215	224	-9	95.98
+D14 vs D28	Down	Protein-coding	519	441	78	117.69
+D14 vs D28	Down	lncRNA	87	58	29	150
+D14 vs D28	Up	Protein-coding	711	525	186	135.43
+D14 vs D28	Up	lncRNA	72	50	22	144

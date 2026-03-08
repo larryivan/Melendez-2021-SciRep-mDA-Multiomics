@@ -1,0 +1,20 @@
+cluster	source	term	n_genes	p.adjust	neglog10_fdr
+1	GO:BP	immune response	123	2.509098473954203e-4	3.600482293705045
+1	GO:BP	sulfur compound metabolic process	25	0.0061809710671041854	2.2089432893197434
+1	GO:BP	biological process involved in interspecies interaction between organisms	110	0.009068409800880847	2.042468862361152
+2	GO:BP	cytoskeleton-dependent intracellular transport	25	0.01758041914780147	1.7549707748022205
+2	GO:BP	plasma membrane bounded cell projection organization	166	0.02036703582688687	1.6910721726541822
+3	GO:BP	chromosome organization	78	5.389796042199059e-52	51.26842766884358
+3	GO:BP	chromosome segregation	77	5.389796042199059e-52	51.26842766884358
+4	GO:BP	inflammatory response	35	7.634522080426254e-6	5.117218144505409
+4	GO:BP	regulation of inflammatory response	24	7.634522080426254e-6	5.117218144505409
+4	GO:BP	collagen metabolic process	15	7.634522080426254e-6	5.117218144505409
+4	GO:BP	defense response	51	2.5553562769554635e-5	4.592548540410348
+5	GO:BP	immune response	59	0.001881460994938497	2.7255047807236368
+6	GO:BP	cell projection organization	168	2.1620639982172833e-12	11.665131454850213
+6	GO:BP	plasma membrane bounded cell projection organization	164	3.887432264145167e-12	11.41033716518421
+6	GO:BP	synaptic signaling	100	7.242539294612124e-11	10.140109139840193
+6	GO:BP	trans-synaptic signaling	97	1.658068736377612e-10	9.780397469436691
+6	GO:BP	chemical synaptic transmission	96	1.658068736377612e-10	9.780397469436691
+6	GO:BP	anterograde trans-synaptic signaling	96	1.658068736377612e-10	9.780397469436691
+6	GO:BP	cilium movement	49	2.4127579009428363e-10	9.617486253540644

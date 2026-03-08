@@ -1,0 +1,15 @@
+parameter	value
+count_file	data/GSE153005_count_mat.txt
+fpkm_file	data/GSE153005_FPKM_mat.txt
+outdir	results/fig3
+padj_cutoff	0.05
+fc_cutoff	4
+min_fpkm	1
+fitType	local
+sfType	poscounts
+independentFiltering	TRUE
+cooksCutoff	TRUE
+top_ns	10,20,30,40,50
+lnc_classes	lincRNA,antisense,sense_intronic,TEC,processed_transcript,sense_overlapping
+fig3a_rank_mode	abs_log2FoldChange
+fig3a_hypergeom_universe	comparison_DEGs

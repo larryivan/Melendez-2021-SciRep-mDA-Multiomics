@@ -1,0 +1,16 @@
+parameter	value
+count_file	data/GSE153005_count_mat.txt
+fpkm_file	data/GSE153005_FPKM_mat.txt
+outdir	results/fig2
+padj_cutoff	0.05
+fc_cutoff	4
+min_fpkm	1
+fitType	local
+sfType	poscounts
+independentFiltering	TRUE
+cooksCutoff	TRUE
+design	~ condition
+cluster_method	ward.D2
+export_fig2c_right_panel	TRUE
+fig2c_right_terms_per_cluster	1:3,2:2,3:2,4:4,5:1,6:7
+fig2c_include_reactome	FALSE
